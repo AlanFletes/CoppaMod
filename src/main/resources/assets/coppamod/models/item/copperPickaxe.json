@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "coppamod:items/example"
+    "layer0": "coppamod:items/copper_pickaxe"
   }
 }

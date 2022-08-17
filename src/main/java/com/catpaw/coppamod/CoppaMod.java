@@ -10,6 +10,6 @@ public class CoppaMod {
     public static final String MODID="coppamod";
     public CoppaMod(){
         IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
-        ItemInit.items.register(bus);
+        ItemInit.itemRegister.register(bus);
     }
 }

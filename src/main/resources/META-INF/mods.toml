@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT"
+[[mods]]#
+modId="coppamod"
+version="1"
+displayName="CoppaMod"
+logoFile="examplemod.png"
+credits="Just to add some uses to the existing copper."
+authors="Kuernitowo"
+description=""

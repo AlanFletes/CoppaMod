@@ -14,9 +14,13 @@ import net.minecraft.world.item.crafting.Ingredient;
 import java.util.function.Supplier;
 
 public enum CoppaModTiers implements Tier {
-    COPPER(2,25,20.0F,0.0F,22,()->{
+    COPPER_PICKAXE(2,25,20.0F,0.0F,22,()->{
         return Ingredient.of(new ItemStack(Items.COPPER_INGOT));
     }),
+    COPPER_SWORD(2,25,20.0F,6,22,()->{
+        return Ingredient.of(new ItemStack(Items.COPPER_INGOT));
+    })
+    ,
     REINFORCEDCOPPER(2,500,6.0F,2.0F,14,()->{
         return Ingredient.of(new ItemStack(ItemInit.refinedCopperItem.get()));
     });

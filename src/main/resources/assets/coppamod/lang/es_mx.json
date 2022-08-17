@@ -1,5 +1,14 @@
 {
   "item.coppamod.refined_copper_item": "Cobre Refinado",
   "item.coppamod.copper_pickaxe": "Pico de Cobre" ,
-  "item.coppamod.copper_pickaxe": "Espada de Cobre"
+  "item.coppamod.copper_sword": "Espada de Cobre",
+  "item.coppamod.copper_axe": "Hacha de Cobre",
+  "item.coppamod.copper_boots": "Botas de Cobre",
+  "item.coppamod.copper_chestplate": "Peto de Cobre",
+  "item.coppamod.copper_helmet": "Casco de Cobre",
+  "item.coppamod.copper_hoe": "Azada de Cobre",
+  "item.coppamod.copper_horse_armor": "Armadura de Cobre para Caballo",
+  "item.coppamod.copper_leggins": "Pantalones de Cobre",
+  "item.coppamod.copper_shovel": "Pala de Cobre",
+  "item.coppamod.compact_copper_ball": "Bola de Cobre Compacto"
 }

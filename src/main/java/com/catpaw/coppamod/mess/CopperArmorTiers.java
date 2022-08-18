@@ -13,7 +13,7 @@ public record CopperArmorTiers(String name, int durability, int[] protection, in
     private static final int[] durability_per_slot = new int[]{13,15,16,19};
     @Override
     public int getDurabilityForSlot(EquipmentSlot slot) {
-        return 0;
+        return durability_per_slot[slot.getIndex()];
     }
 
     @Override

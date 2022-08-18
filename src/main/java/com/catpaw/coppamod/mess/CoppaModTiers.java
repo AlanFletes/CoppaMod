@@ -22,7 +22,7 @@ public enum CoppaModTiers implements Tier {
     })
     ,
     REINFORCEDCOPPER(2,500,6.0F,2.0F,14,()->{
-        return Ingredient.of(new ItemStack(ItemInit.refinedCopperItem.get()));
+        return Ingredient.of(new ItemStack(ItemInit.templatedCopperIngot.get()));
     });
     private final int level;
     private final int uses;

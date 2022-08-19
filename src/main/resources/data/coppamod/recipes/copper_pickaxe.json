@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    " W ",
+    " W "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:copper_ingot"
+    },
+    "W": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "coppamod:copper_pickaxe"
+  }
+}

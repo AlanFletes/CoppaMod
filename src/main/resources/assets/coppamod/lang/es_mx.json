@@ -1,5 +1,5 @@
 {
-  "item.coppamod.refined_copper_item": "Cobre Refinado",
+  "item.coppamod.templated_copper_ingot": "Cobre Templado",
   "item.coppamod.copper_pickaxe": "Pico de Cobre" ,
   "item.coppamod.copper_sword": "Espada de Cobre",
   "item.coppamod.copper_axe": "Hacha de Cobre",
@@ -10,5 +10,15 @@
   "item.coppamod.copper_horse_armor": "Armadura de Cobre para Caballo",
   "item.coppamod.copper_leggins": "Pantalones de Cobre",
   "item.coppamod.copper_shovel": "Pala de Cobre",
-  "item.coppamod.compact_copper_ball": "Bola de Cobre Compacto"
+  "item.coppamod.compact_copper_ball": "Bola de Cobre Compacto",
+  "item.coppamod.templated_copper_pickaxe": "Pico de Cobre Templado",
+  "item.coppamod.templated_copper_sword": "Espada de Cobre Templado",
+  "item.coppamod.templated_copper_axe": "Hacha de Cobre Templado",
+  "item.coppamod.templated_copper_boots": "Botas de Cobre Templado",
+  "item.coppamod.templated_copper_chestplate": "Peto de Cobre Templado",
+  "item.coppamod.templated_copper_helmet": "Casco de Cobre Templado",
+  "item.coppamod.templated_copper_hoe": "Azada de Cobre Templado",
+  "item.coppamod.templated_copper_horse_armor": "Armadura de Cobre Templado para Caballo",
+  "item.coppamod.templated_copper_leggins": "Pantalones de Cobre Templado",
+  "item.coppamod.templated_copper_shovel": "Pala de Cobre Templado"
 }
